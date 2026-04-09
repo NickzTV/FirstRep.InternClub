@@ -1,2 +1,4 @@
 Lalalalaaaa
 Zo-tero :D
+
+i realized i can also edit text messages directly via the github website, pretty useful whenever i don't have Visual studio for any reason :)
